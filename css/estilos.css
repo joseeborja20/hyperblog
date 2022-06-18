@@ -44,3 +44,8 @@ body {
     background: #fff;
     padding: 1em
 }
+#footer {
+    font-style: italic;
+    background-color: white;
+
+}
